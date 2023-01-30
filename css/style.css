@@ -9,3 +9,13 @@
 #color-pink{
     background-color:pink
 }
+
+#box-model-paragragh{
+    margin: 5px;
+    border: 10px ridge lightgreen;
+}
+#box-model-span{
+    padding: 0 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
